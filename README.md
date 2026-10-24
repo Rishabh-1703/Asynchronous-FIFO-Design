@@ -16,7 +16,7 @@ The design uses **Gray Code Pointer Synchronization** and **Two Flip-Flop (2FF) 
 
 The synchronized Gray pointers are compared directly for generating the full and empty flags. They are not converted back to binary.
 
-The project follows a modular RTL design approach and includes a **self-checking SystemVerilog testbench** for functional verification.
+The project follows a modular RTL design approach and includes a **Verilog testbench** for functional verification.
 
 ---
 
