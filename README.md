@@ -66,8 +66,8 @@ An **Asynchronous FIFO** solves this problem by:
 - Full Flag Generation
 - Empty Flag Generation
 - Modular RTL Design
-- Self-checking SystemVerilog Testbench
-- Verified using ModelSim/QuestaSim and EDA Playground
+- Self-checking Verilog Testbench
+
 
 ---
 
