@@ -1,7 +1,7 @@
 # Clifford Cummings architecture-based asynchronous FIFO
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
-![SystemVerilog](https://img.shields.io/badge/Testbench-SystemVerilog-orange)
+![Verilog]
 ![RTL Design](https://img.shields.io/badge/Domain-RTL%20Design-green)
 ![CDC](https://img.shields.io/badge/Clock%20Domain%20Crossing-CDC-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -99,7 +99,7 @@ Asynchronous_FIFO/
 ├── synchronizer.v           # Two-FF synchronizer
 ├── wptr_handler.v           # Write pointer & Full flag
 ├── rptr_handler.v           # Read pointer & Empty flag
-├── async_fifo_TB.sv         # Self-checking testbench
+├── async_fifo_TB         # Self-checking testbench
 ├── README.md
 
 ```
@@ -111,7 +111,7 @@ Asynchronous_FIFO/
 | Parameter | Description |
 |-----------|-------------|
 | Language | Verilog HDL |
-| Testbench | SystemVerilog |
+| Testbench | |
 | FIFO Type | Asynchronous FIFO |
 | Synchronization | Gray Code + 2FF Synchronizer |
 | Memory | Dual-Port FIFO Memory |
