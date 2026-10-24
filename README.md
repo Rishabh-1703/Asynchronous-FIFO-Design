@@ -1,7 +1,7 @@
 # Clifford Cummings architecture-based asynchronous FIFO
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
-![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
+//![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 ![RTL Design](https://img.shields.io/badge/Domain-RTL%20Design-green)
 ![CDC](https://img.shields.io/badge/Clock%20Domain%20Crossing-CDC-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
